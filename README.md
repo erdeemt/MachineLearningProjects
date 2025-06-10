@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# Machine Learning Projects
 General Purpose Machine Learning Projects
 
 [TR]
