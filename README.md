@@ -2,6 +2,8 @@
 General Purpose Machine Learning Projects
 
 [TR]
+
+
 Bu repository'de günlük yaşantımızda sıkça karşılaştığımız problemlerin çözümlerine yönelik kolaylık sağlayan belirli durumlar için makine öğrenmesi modelleri eğitilmiştir. Her bir klasörün içinde düzenli bir şekilde raporlanmış .ipynb dosyalarını bulabilirsiniz.
 
 Kolaylıklar dilerim.
@@ -18,6 +20,8 @@ Duygu Analizi  - Kaggle'dan Sentiment140 Twitter veriseti
 
 
 [EN]
+
+
 In this repository, machine learning models are trained for specific situations that provide convenience for solving problems that we frequently encounter in our daily lives. Inside each folder you can find .ipynb files that are reported in an organized way.
 
 I wish you convenience.
