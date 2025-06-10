@@ -22,6 +22,9 @@ In this repository, machine learning models are trained for specific situations 
 
 I wish you convenience.
 
+---- PROJECTS ----
+
+
 Churn Prediction - Telco Customer Churn dataset from Kaggle
 Credit Risk Assestment - GiveMeSomeCredit dataset from Kaggle
 Customer Segmentation - Online Retail dataset from Kaggle
